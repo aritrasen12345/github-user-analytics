@@ -1,0 +1,38 @@
+export default {
+  login: "aritrasen12345",
+  id: 71816694,
+  node_id: "MDQ6VXNlcjcxODE2Njk0",
+  avatar_url: "https://avatars.githubusercontent.com/u/71816694?v=4",
+  gravatar_id: "",
+  url: "https://api.github.com/users/aritrasen12345",
+  html_url: "https://github.com/aritrasen12345",
+  followers_url: "https://api.github.com/users/aritrasen12345/followers",
+  following_url:
+    "https://api.github.com/users/aritrasen12345/following{/other_user}",
+  gists_url: "https://api.github.com/users/aritrasen12345/gists{/gist_id}",
+  starred_url:
+    "https://api.github.com/users/aritrasen12345/starred{/owner}{/repo}",
+  subscriptions_url:
+    "https://api.github.com/users/aritrasen12345/subscriptions",
+  organizations_url: "https://api.github.com/users/aritrasen12345/orgs",
+  repos_url: "https://api.github.com/users/aritrasen12345/repos",
+  events_url: "https://api.github.com/users/aritrasen12345/events{/privacy}",
+  received_events_url:
+    "https://api.github.com/users/aritrasen12345/received_events",
+  type: "User",
+  site_admin: false,
+  name: "Aritra Sen",
+  company: "Techweirdo",
+  blog: "https://aritrasen12345-portfolio.herokuapp.com/",
+  location: "Howrah, West Bengal, India",
+  email: null,
+  hireable: true,
+  bio: "SDE Intern @Techweirdo || 3rd Year B.Tech CSE student at GCELT || Fullstack Web Developer",
+  twitter_username: "AritraS81007757",
+  public_repos: 49,
+  public_gists: 0,
+  followers: 13,
+  following: 46,
+  created_at: "2020-09-24T08:14:39Z",
+  updated_at: "2022-01-25T19:46:18Z",
+};
