@@ -1,12 +1,12 @@
 ![Github-user-analytics](https://socialify.git.ci/aritrasen12345/Github-user-analytics/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Dark)
 
-_Learned From a Tutorial_
-
 ## About
 
 **In This Project, You can get the analysis of Any GitHub User. Here I used React, Auth0( for authentication), GitHub API ( for data fetch), FusionCharts ( for Graph & Chart Analysis ), Netlify ( for deployment )**
 
-<!-- ## Live Demo: https://github-user-analytics.netlify.app/ -->
+## Live Demo: https://github-user-analytic.netlify.app/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1029ad89-eac9-46d5-8687-a7bca6f7932c/deploy-status)](https://app.netlify.com/sites/github-user-analytic/deploys)
 
 ## Styled Components
 
