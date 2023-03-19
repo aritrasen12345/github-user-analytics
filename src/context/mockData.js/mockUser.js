@@ -23,7 +23,7 @@ export default {
   site_admin: false,
   name: "Aritra Sen",
   company: "Techweirdo",
-  blog: "https://aritrasen12345-portfolio.herokuapp.com/",
+  blog: "https://aritrasen12345.github.io/",
   location: "Howrah, West Bengal, India",
   email: null,
   hireable: true,
